@@ -1,5 +1,6 @@
 streamlit>=1.38.0
 python-telegram-bot>=20.7
 python-dotenv>=1.0.1
-t_tech_investments==0.3.3
+git+https://gitlab.com/tinkoffopensource/invest/invest-python.git
+
 
