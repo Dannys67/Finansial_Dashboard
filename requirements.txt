@@ -1,6 +1,6 @@
 streamlit>=1.38.0
 python-telegram-bot>=20.7
 python-dotenv>=1.0.1
-
+./t_tech_investments-0.3.3-py3-none-any.whl
 
 
